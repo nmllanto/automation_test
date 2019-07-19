@@ -1,2 +1,2 @@
 # automation_test
-Repo for my automation in Github
+Repo for my automation testing
